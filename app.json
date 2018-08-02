@@ -1,0 +1,7 @@
+{
+  "name": "system",
+  "displayName": "system",
+  "expo": {
+    "sdkVersion": "27.0.0"
+  }
+}
